@@ -131,3 +131,159 @@
 	height: 150px;
 	clear: both;
 }
+
+.desc{
+
+	
+	text-align: center;
+}
+
+.effectback1{
+	
+	display: block;
+	background: url('https://pre00.deviantart.net/9ba3/th/pre/i/2015/281/b/c/ant_man_and_the_wasp_fanmade_poster_by_punmagneto-d9cg0os.jpg') no-repeat;
+	float: left;
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront1 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront1:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
+.effectback2{
+	
+	display: block;
+	background: url('http://www.joblo.com/newsimages1/antmanwasphand.jpg') no-repeat;
+	float: left;
+	margin-left: 300px;
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront2 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront2:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
+.effectback3{
+	
+	display: block;
+	background: url('https://pre00.deviantart.net/6d7b/th/pre/i/2015/200/0/c/ant_man_commission_art_by_quahkm-d921556.jpg') no-repeat;
+	float: left;
+	margin-left: 300px;
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront3 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront3:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
+.effectback4{
+	
+	display: block;
+	background: url('https://omegaunderground.com/wp-content/uploads/2015/10/ANT-MAN_AND_WASP_MARVEL-STUDIOS_JULY-2018_.jpg') no-repeat;
+	float: left;
+	
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront4 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront4:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
+.effectback5{
+	
+	display: block;
+	background: url('http://d1vr6n66ssr06c.cloudfront.net/wp-content/uploads/sites/4/2017/07/Ant-Man-and-The-Wasp-Poster-feat.jpg') no-repeat;
+	float: left;
+	margin-left: 300px;
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront5 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront5:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
+.effectback6{
+	
+	display: block;
+	background: url('https://pre00.deviantart.net/3c71/th/pre/i/2017/292/3/c/ant_man_and_the_wasp_poster_by_gasa979-dbr3br0.png') no-repeat;
+	float: left;
+	margin-left: 300px;
+	background-size: 100%;
+	width: 250px;
+	height: 250px;
+}
+.effectfront6 {
+
+	opacity: 0;
+	border: none;
+	margin: 0 auto;
+	min-height: 100%;
+}
+.effectfront6:hover{
+opacity: 1;
+transition: all 0.3s;
+-webkit-transition:all 0.3s;
+width: 400px;
+height: 400px;
+}
+
